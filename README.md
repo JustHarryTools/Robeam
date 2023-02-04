@@ -4,7 +4,7 @@
 
 
 RoBeam Grabber, The most Over-powered cookie logger on Discord 🤯 
-https://discord.gg/kGx3HG69vb (UPDATED INV)
+https://discord.gg/mZU5R9A2N9 
 
 ![image](https://cdn.discordapp.com/attachments/1067540517702864928/1067544942966222899/icon.png)
 
