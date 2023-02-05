@@ -2,9 +2,7 @@
 
 **I Am not responsible for any malicious use of this program**
 
-
-RoBeam Grabber, The most Over-powered cookie logger on Discord 🤯 
-https://discord.gg/mZU5R9A2N9 
+Check Out https://github.com/JustHarryTools
 
 ![image](https://cdn.discordapp.com/attachments/1067884802092564580/1071747189979754496/209458812-28830369-d781-4f15-894a-b5f21aa632ef.png)
 
